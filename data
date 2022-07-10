@@ -1,0 +1,21 @@
+console.log("hi)
+console.log("hi")
+2-3
+function run(){
+return 5}
+const run=()=>{
+console.log("hi hi")
+return 0
+const as=()=>{
+console.log(2)
+return 0
+}
+as
+console.log(as)
+as()
+Number
+Number.
+
+.\
+Number.MAX_SAFE_INTEGER
+global.readline
