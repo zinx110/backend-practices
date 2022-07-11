@@ -1,0 +1,38 @@
+console.log("repl session")
+const fun=()=>return 5
+const fun=()=>{return 5}
+const fun2(2)=>{
+const fun2=(a)=>{
+return a+1}
+const fun2=()=>{
+console.log("overloading")
+console.log("not sure if method overloading works")
+console.log("okay it will work but have to do it differently compared to cpp or c#")
+const funOverload=(a,b,c,d)=>{
+if(arguments.length==1){
+  return a}
+else if(arguments.length===2){
+  return a,b}
+else if (arguemts.length===3){
+  return a,b,c}
+else return "0 or 4 arguments"}
+console.log("okay this arguments is not defined. I think I misunderstood this article i found")
+const fu=(a,b)=>{
+if (a){
+  return a}
+if (b){
+  return a+b}
+else{
+  return "no arguments were passed"}
+}
+fu()
+fu(1)
+fu(1,4)
+Number.
+
+Number.length
+Number.isFinite(fu(24234,4123423))
+// comment
+const exitFunc=()=>{
+console.log("exit function")
+process.exit()}
