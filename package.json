@@ -13,7 +13,6 @@
     "url": "git+https://github.com/zinx110/backend-practices.git"
   },
   "author": "zinx",
-  "type": "module",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zinx110/backend-practices/issues"
