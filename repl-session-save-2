@@ -36,3 +36,6 @@ Number.isFinite(fu(24234,4123423))
 const exitFunc=()=>{
 console.log("exit function")
 process.exit()}
+
+
+// after that used .save repl-session-save-2 and then exitFunc()
