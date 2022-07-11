@@ -10,4 +10,6 @@ const hiFunc = () => {
 // using export as module.exports
 // module.exports = hiFunc;
 
+console.log(exports, require, module, __filename, __dirname);
+
 module.exports = { hi, hiFunc };
