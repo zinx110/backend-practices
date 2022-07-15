@@ -1,1 +1,1 @@
-Hello , i'm file. 
+Hello , i'm file. 'This is appended part''This is appended from appendSync''This is appended part'
